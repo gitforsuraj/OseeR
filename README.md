@@ -1,1 +1,1 @@
-# OIR_Application
+# OCR_Application
