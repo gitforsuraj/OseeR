@@ -2,6 +2,7 @@
   Referenced:
    https://github.com/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/ArduinoSketches/IMU_Classifier/IMU_Classifier.ino
    https://www.digikey.com/en/maker/projects/intro-to-tinyml-part-2-deploying-a-tensorflow-lite-model-to-arduino/59bf2d67256f4b40900a3fa670c14330  
+   https://github.com/arduino-libraries/Arduino_OV767X
  */
  
 #include <Arduino_OV767X.h>
