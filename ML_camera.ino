@@ -5,6 +5,7 @@
  */
  
 #include <Arduino_OV767X.h>
+#include <TTS.h>
 
 #include "TensorFlowLite.h"
 #include "tensorflow/lite/experimental/micro/kernels/micro_ops.h"
